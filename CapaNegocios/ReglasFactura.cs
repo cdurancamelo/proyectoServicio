@@ -6,10 +6,11 @@ using CapaEntidades.Tablas;
 [DataObject()]
 public class ReglasFactura
 {
+    //utilizamos el select de factura
     [DataObjectMethod(DataObjectMethodType.Select, true)]
     public static ListaFactura GetListFacturaAll()
     {
-        return SqlFactura.GetListFacturaAll();
+            return SqlFactura.GetListFacturaAll();
     }
 
     [DataObjectMethod(DataObjectMethodType.Select, true)]
