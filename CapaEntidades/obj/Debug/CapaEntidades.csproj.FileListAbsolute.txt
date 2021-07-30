@@ -1,0 +1,6 @@
+D:\carlos\ProyectoMantenimiento\WebMantenimiento\CapaEntidades\bin\Debug\CapaEntidades.dll
+D:\carlos\ProyectoMantenimiento\WebMantenimiento\CapaEntidades\bin\Debug\CapaEntidades.pdb
+D:\carlos\ProyectoMantenimiento\WebMantenimiento\CapaEntidades\obj\Debug\CapaEntidades.csproj.AssemblyReference.cache
+D:\carlos\ProyectoMantenimiento\WebMantenimiento\CapaEntidades\obj\Debug\CapaEntidades.csproj.CoreCompileInputs.cache
+D:\carlos\ProyectoMantenimiento\WebMantenimiento\CapaEntidades\obj\Debug\CapaEntidades.dll
+D:\carlos\ProyectoMantenimiento\WebMantenimiento\CapaEntidades\obj\Debug\CapaEntidades.pdb

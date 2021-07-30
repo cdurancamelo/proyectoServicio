@@ -1,0 +1,5 @@
+D:\carlos\ProyectoMantenimiento\WebMantenimiento\Conexion\bin\Debug\Conexion.dll
+D:\carlos\ProyectoMantenimiento\WebMantenimiento\Conexion\bin\Debug\Conexion.pdb
+D:\carlos\ProyectoMantenimiento\WebMantenimiento\Conexion\obj\Debug\Conexion.csproj.CoreCompileInputs.cache
+D:\carlos\ProyectoMantenimiento\WebMantenimiento\Conexion\obj\Debug\Conexion.dll
+D:\carlos\ProyectoMantenimiento\WebMantenimiento\Conexion\obj\Debug\Conexion.pdb

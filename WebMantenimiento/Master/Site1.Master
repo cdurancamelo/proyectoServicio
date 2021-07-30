@@ -1,0 +1,59 @@
+﻿<%@ Master Language="C#" AutoEventWireup="true" CodeBehind="Site1.master.cs" Inherits="WebMantenimiento.Master.Site1" %>
+
+<!DOCTYPE html>
+
+<html>
+<head runat="server">
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8"/>
+    <title></title>
+        <script src="../assets/js/jquery-1.12.4.js"></script>
+    <script src="../Bootstrap/js/bootstrap.min.js"></script>
+    <link href="../Bootstrap/css/bootstrap.min.css" rel="stylesheet" />
+      <link href="../Bootstrap/css/bootstrap.min.css" rel="stylesheet" />
+    <asp:ContentPlaceHolder ID="head" runat="server">
+    </asp:ContentPlaceHolder>
+</head>
+<body>
+   <form id="form1" runat="server" class="bg-dark">
+        <div class="container" class="bg-dark" >
+            <nav class="navbar navbar-expand-md navbar-light" style="color:white">
+                <a href="#" class="navbar-brand">
+
+                    <img src="../img/usuario3.png" alt="Ejemplo" width="70" height="50"
+                        class="d-inline-block align-top" />
+                  <span class="hidden" style="color:white">Gestionar Cliente</span>  
+
+
+                </a>
+                <button class="navbar-toggler" type="button" data-bs-toggle="collapse"
+                    data-bs-target="#toggleMobileMenu"
+                    arial-controls="toggleMobileMenu"
+                    aria-expanded="false"
+                    aria-lable="toggle navigation"
+                    >
+                    <span class="navbar-toggler-icon"></span>
+                </button>
+                <div class="collapse navbar-collapse" id="toggleMobileMenu">
+                    <ul class="navbar-nav ms-auto text-center" style="color:white">
+                        <li >
+                            <a class="nav-link" href="Cliente.aspx" style="color:white">Cliente</a>
+                        </li>
+                         <li>
+                            <a class="nav-link" href="Empleado.aspx" style="color:white">Empleado</a>
+                        </li>
+                        
+                    </ul>
+                </div>
+            </nav>
+        </div>
+       
+    </form>
+      <div  style="width: 84%; top: 5px;">
+    <asp:ContentPlaceHolder ID="ContentPlaceHolder1" runat="server">
+      
+    </asp:ContentPlaceHolder>
+       <br />
+  
+   </div>
+</body>
+</html>

@@ -1,0 +1,11 @@
+D:\carlos\ProyectoMantenimiento\WebMantenimiento\CapaDatos\bin\Debug\CapaDatos.dll
+D:\carlos\ProyectoMantenimiento\WebMantenimiento\CapaDatos\bin\Debug\CapaDatos.pdb
+D:\carlos\ProyectoMantenimiento\WebMantenimiento\CapaDatos\bin\Debug\CapaEntidades.dll
+D:\carlos\ProyectoMantenimiento\WebMantenimiento\CapaDatos\bin\Debug\Conexion.dll
+D:\carlos\ProyectoMantenimiento\WebMantenimiento\CapaDatos\bin\Debug\CapaEntidades.pdb
+D:\carlos\ProyectoMantenimiento\WebMantenimiento\CapaDatos\bin\Debug\Conexion.pdb
+D:\carlos\ProyectoMantenimiento\WebMantenimiento\CapaDatos\obj\Debug\CapaDatos.csproj.AssemblyReference.cache
+D:\carlos\ProyectoMantenimiento\WebMantenimiento\CapaDatos\obj\Debug\CapaDatos.csproj.CoreCompileInputs.cache
+D:\carlos\ProyectoMantenimiento\WebMantenimiento\CapaDatos\obj\Debug\CapaDatos.csproj.CopyComplete
+D:\carlos\ProyectoMantenimiento\WebMantenimiento\CapaDatos\obj\Debug\CapaDatos.dll
+D:\carlos\ProyectoMantenimiento\WebMantenimiento\CapaDatos\obj\Debug\CapaDatos.pdb

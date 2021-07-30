@@ -1,0 +1,13 @@
+D:\carlos\ProyectoMantenimiento\WebMantenimiento\CapaNegocios\bin\Debug\CapaNegocios.dll
+D:\carlos\ProyectoMantenimiento\WebMantenimiento\CapaNegocios\bin\Debug\CapaNegocios.pdb
+D:\carlos\ProyectoMantenimiento\WebMantenimiento\CapaNegocios\bin\Debug\CapaDatos.dll
+D:\carlos\ProyectoMantenimiento\WebMantenimiento\CapaNegocios\bin\Debug\CapaEntidades.dll
+D:\carlos\ProyectoMantenimiento\WebMantenimiento\CapaNegocios\bin\Debug\Conexion.dll
+D:\carlos\ProyectoMantenimiento\WebMantenimiento\CapaNegocios\bin\Debug\CapaDatos.pdb
+D:\carlos\ProyectoMantenimiento\WebMantenimiento\CapaNegocios\bin\Debug\CapaEntidades.pdb
+D:\carlos\ProyectoMantenimiento\WebMantenimiento\CapaNegocios\bin\Debug\Conexion.pdb
+D:\carlos\ProyectoMantenimiento\WebMantenimiento\CapaNegocios\obj\Debug\CapaNegocios.csproj.AssemblyReference.cache
+D:\carlos\ProyectoMantenimiento\WebMantenimiento\CapaNegocios\obj\Debug\CapaNegocios.csproj.CoreCompileInputs.cache
+D:\carlos\ProyectoMantenimiento\WebMantenimiento\CapaNegocios\obj\Debug\CapaNegocios.csproj.CopyComplete
+D:\carlos\ProyectoMantenimiento\WebMantenimiento\CapaNegocios\obj\Debug\CapaNegocios.dll
+D:\carlos\ProyectoMantenimiento\WebMantenimiento\CapaNegocios\obj\Debug\CapaNegocios.pdb
